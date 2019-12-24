@@ -1,4 +1,4 @@
-# Support-Vector-Machine
+# Support-Vector-Machines
 
 In this project we use the built-in dataset which is available in Sckit-learn and Seaborn library.
 
